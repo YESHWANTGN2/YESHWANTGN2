@@ -10,25 +10,38 @@ Currently, I'm pursuing:
 
 What started as curiosity about how computers work slowly turned into an interest in both the **chips that run technology** and the **AI systems built on top of them**. Because of that, I spend my time learning and building across multiple domains rather than staying in just one.
 
-## What I Work With
+<table>
+<tr>
+<td width="50%" valign="top">
 
-* Python
-* SQL
-* Machine Learning & AI
-* Data Science
-* HTML, CSS & JavaScript
-* Git & GitHub
-* Power BI
-* VLSI Design
+### 🛠️ What I Work With
 
-## Current Focus
+- Python
+- SQL
+- Machine Learning
+- Data Science
+- HTML, CSS & JavaScript
+- Power BI
+- Git & GitHub
+- VLSI Design
 
-* AI & Machine Learning Projects
-* Data Analytics and Visualization
-* Web Development
-* VLSI Design and Testing
-* Building end-to-end intelligent systems
+</td>
 
+<td width="50%" valign="top">
+
+### 🎯 Current Focus
+
+- AI & Machine Learning Projects
+- Data Analytics
+- Data Visualization
+- Web Development
+- VLSI Design & Testing
+- Intelligent Systems
+- Open Source Learning
+
+</td>
+</tr>
+</table>
 ## Experience
 
 💼 **Web Developer @ Dark Dragons Caelestis**
