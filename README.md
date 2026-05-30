@@ -12,7 +12,7 @@ What started as curiosity about how computers work slowly turned into an interes
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="70%" valign="top">
 
 ### 🛠️ What I Work With
 
@@ -27,7 +27,7 @@ What started as curiosity about how computers work slowly turned into an interes
 
 </td>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🎯 Current Focus
 
